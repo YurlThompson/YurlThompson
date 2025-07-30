@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, This is Yuri Thompson Gomes</h1>
-<h3 align="center">An IT passionate guy from Salvador, Bahia, Brazil</h3>
+<h3 align="center">An IT passionate guy from Salvador-Bahia, Brazil</h3>
 
 - 🌱 I’m currently learning **Customer Support, Python, Computer Science, SI**
 
