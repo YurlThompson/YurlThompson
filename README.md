@@ -1,7 +1,7 @@
-<h1 align="center">Hello There 👋, This is Yuri Thompson Rocha</h1>
+<h1 align="center">Hello There 👋, This is Yuri Thompson Gomes</h1>
 <h3 align="center">A passionate IT guy from Brazil</h3>
 
-- 🌱 I’m currently learning **Customer Support, Python, Data Science, Machine Learning**
+- 🌱 I’m currently learning **Customer Support, Python, Computer Science, SI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YurlThompson?tab=repositories](https://github.com/YurlThompson?tab=repositories)
 
